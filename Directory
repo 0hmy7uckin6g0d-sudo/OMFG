@@ -1,0 +1,51 @@
+0mfg_fw/
+├── platformio.ini
+├── src/
+│   ├── main.cpp
+│   ├── config.h
+│   ├── cyd_state.h
+│   ├── cyd_state.cpp
+│   ├── hardware/
+│   │   ├── hw_display.h
+│   │   ├── hw_display.cpp
+│   │   ├── hw_input.h
+│   │   ├── hw_input.cpp
+│   │   ├── hw_radio.h
+│   │   ├── hw_radio.cpp
+│   │   ├── hw_ir.h
+│   │   └── hw_ir.cpp
+│   ├── ui/
+│   │   ├── ui_draw.h
+│   │   ├── ui_draw.cpp
+│   │   ├── oh_skull_font.h
+│   │   └── icons.h
+│   ├── modules/
+│   │   ├── rolljam.h
+│   │   ├── rolljam.cpp
+│   │   ├── flockjam.h
+│   │   ├── flockjam.cpp
+│   │   ├── amazonlocker.h
+│   │   ├── amazonlocker.cpp
+│   │   ├── saflok.h
+│   │   ├── saflok.cpp
+│   │   ├── flockfucker.h
+│   │   ├── flockfucker.cpp
+│   │   ├── policejam.h
+│   │   ├── policejam.cpp
+│   │   ├── cctvblock.h
+│   │   ├── cctvblock.cpp
+│   │   ├── garageopener.h
+│   │   ├── garageopener.cpp
+│   │   ├── magspoof.h
+│   │   ├── magspoof.cpp
+│   │   ├── u2f.h
+│   │   ├── u2f.cpp
+│   │   ├── alarmjam.h
+│   │   ├── alarmjam.cpp
+│   │   ├── protopirate.h
+│   │   ├── protopirate.cpp
+│   │   ├── pandwarf.h
+│   │   ├── pandwarf.cpp
+│   │   ├── kaiju.h
+│   │   └── kaiju.cpp
+└── README.md
